@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **FrontEnd Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/PrabhatUpadhyay1](https://github.com/PrabhatUpadhyay1)
-
 - 💬 Ask me about **Backend Android Developer**
 
 - 📫 How to reach me **prabhatu50@gmail.com**
