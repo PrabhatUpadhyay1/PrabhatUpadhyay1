@@ -13,8 +13,8 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1xv2TYvuY9xIuVQ8sNLkEG1VrGeW1r1Tp/view?usp=sharing](https://drive.google.com/file/d/1xv2TYvuY9xIuVQ8sNLkEG1VrGeW1r1Tp/view?usp=sharing)
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
   <a href="https://www.linkedin.com/in/prabhat-upadhyay-52441b136/" target="_blank" style="margin: 10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="25" />
   </a>
