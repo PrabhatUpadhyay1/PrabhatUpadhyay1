@@ -15,9 +15,7 @@
     <td>
       <div style="border: 1px solid #ccc; display: flex; align-items: center; padding: 8px;">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="20" height="20">
-        <div style="display: flex; flex-direction: column; align-items: center; margin-left: 8px;">
           <span style="font-size: 8px;">LinkedIn</span>
-        </div>
       </div>
     </td>
     <td>
