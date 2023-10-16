@@ -43,39 +43,39 @@
   <tr>
     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="18" height="18">
-      <br><span style="font-size: 8px;"><b>Java</b></span>
+       <span style="font-size: 8px;"><b>Java</b></span>
     </td>
     <td>
       <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="18" height="18">
-      <br><span style="font-size: 8px;"><b>Spring Boot</b></span>
+       <span style="font-size: 8px;"><b>Spring Boot</b></span>
     </td>
     <td>
       <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="18" height="18">
-      <br><span style="font-size: 8px;"><b>Kafka</b></span>
+       <span style="font-size: 8px;"><b>Kafka</b></span>
     </td>
     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt "python" width="18" height="18">
-      <br><span style="font-size: 8px;"><b>Python</b></span>
+       <span style="font-size: 8px;"><b>Python</b></span>
     </td>
     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="18" height="18">
-      <br><span style="font-size: 8px;"><b>MySQL</b></span>
+       <span style="font-size: 8px;"><b>MySQL</b></span>
     </td>
     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="18" height="18">
-      <br><span style="font-size: 8px;"><b>PostgreSQL</b></span>
+       <span style="font-size: 8px;"><b>PostgreSQL</b></span>
     </td>
     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="18" height="18">
-      <br><span style="font-size: 8px;"><b>Android</b></span>
+       <span style="font-size: 8px;"><b>Android</b></span>
     </td>
     <td>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="18" height="18">
-      <br><span style="font-size: 8px;"><b>Git</b></span>
+       <span style="font-size: 8px;"><b>Git</b></span>
     </td>
     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="18" height="18">
-      <br><span style="font-size: 8px;"><b>Docker</b></span>
+       <span style="font-size: 8px;"><b>Docker</b></span>
     </td>
     <td>
       <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="18" height="18">
