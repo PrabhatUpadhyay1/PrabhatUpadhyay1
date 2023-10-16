@@ -24,25 +24,7 @@
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/prabhatu50/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/prabhatu50/practice/" height="30" width="40" /></a>
 </p>
 
-<style>
-  table {
-    width: 100%;
-    border-collapse: separate;
-    border-spacing: 20px;
-    margin-bottom: 20px;
-  }
-  td {
-    padding: 15px;
-    border: 1px solid #ccc;
-    border-radius: 10px;
-    text-align: center;
-    background-color: #f5f5f5;
-  }
-  td img {
-    display: block;
-    margin: 0 auto;
-  }
-</style>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <table>
