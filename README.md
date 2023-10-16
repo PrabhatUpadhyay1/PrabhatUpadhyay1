@@ -1,4 +1,4 @@
-![Masterhead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
+![Masterhead](https://img.freepik.com/free-vector/male-sysadmin-working-with-computer-hardware-isometric-design-concept-3d-illustration_1284-55191.jpg?w=1380&t=st=1697495491~exp=1697496091~hmac=dbdcb70cc79014e0fc5a2738956c61864bac7a0e537d4d45d8677c3de3e6cc1d)
 
 <h2 align="left">Hi 👋, I'm Prabhat Upadhyay</h2>
 
