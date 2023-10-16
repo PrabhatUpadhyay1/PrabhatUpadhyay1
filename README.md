@@ -13,26 +13,26 @@
 <table>
   <tr>
     <td>
-      <div style="border: 1px solid #ccc; display: flex; align-items: center; padding: 10px;">
+      <div style="border: 1px solid #ccc; display: flex; align-items: center; padding: 6px;">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="20" height="20">
-        <div style="display: flex; flex-direction: column; align-items: center; margin-left: 10px;">
-          <span style="font-size: 8px;">LinkedIn</span>
+        <div style="display: flex; flex-direction: column; align-items: center; margin-left: 6px;">
+          <span style="font-size: 6px;">LinkedIn</span>
         </div>
       </div>
     </td>
     <td>
-      <div style="border: 1px solid #ccc; display: flex; align-items: center; padding: 10px;">
+      <div style="border: 1px solid #ccc; display: flex; align-items: center; padding: 6px;">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="20" height="20">
-        <div style="display: flex; flex-direction: column; align-items: center; margin-left: 10px;">
-          <span style="font-size: 8px;">LeetCode</span>
+        <div style="display: flex; flex-direction: column; align-items: center; margin-left: 6px;">
+          <span style="font-size: 6px;">LeetCode</span>
         </div>
       </div>
     </td>
     <td>
-      <div style="border: 1px solid #ccc; display: flex; align-items: center; padding: 10px;">
+      <div style="border: 1px solid #ccc; display: flex; align-items: center; padding: 6px;">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" width="20" height="20">
-        <div style="display: flex; flex-direction: column; align-items: center; margin-left: 10px;">
-          <span style="font-size: 8px;">GeeksforGeeks</span>
+        <div style="display: flex; flex-direction: column; align-items: center; margin-left: 6px;">
+          <span style="font-size: 6px;">GeeksforGeeks</span>
         </div>
       </div>
     </td>
@@ -45,43 +45,43 @@
   <tr>
     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="25" height="25">
-      <br><span style="font-size: 10px;"><b>Java</b></span>
+      <br><span style="font-size: 6px;"><b>Java</b></span>
     </td>
     <td>
       <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="25" height="25">
-      <br><span style="font-size: 10px;"><b>Spring Boot</b></span>
+      <br><span style="font-size: 6px;"><b>Spring Boot</b></span>
     </td>
     <td>
       <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="25" height="25">
-      <br><span style="font-size: 10px;"><b>Kafka</b></span>
+      <br><span style="font-size: 6px;"><b>Kafka</b></span>
     </td>
     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt "python" width="25" height="25">
-      <br><span style="font-size: 10px;"><b>Python</b></span>
+      <br><span style="font-size: 6px;"><b>Python</b></span>
     </td>
     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25">
-      <br><span style="font-size: 10px;"><b>MySQL</b></span>
+      <br><span style="font-size: 6px;"><b>MySQL</b></span>
     </td>
     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="25" height="25">
-      <br><span style="font-size: 10px;"><b>PostgreSQL</b></span>
+      <br><span style="font-size: 6px;"><b>PostgreSQL</b></span>
     </td>
     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="25" height="25">
-      <br><span style="font-size: 10px;"><b>Android</b></span>
+      <br><span style="font-size: 6px;"><b>Android</b></span>
     </td>
     <td>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="25" height="25">
-      <br><span style="font-size: 10px;"><b>Git</b></span>
+      <br><span style="font-size: 6px;"><b>Git</b></span>
     </td>
     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="25" height="25">
-      <br><span style="font-size: 10px;"><b>Docker</b></span>
+      <br><span style="font-size: 6px;"><b>Docker</b></span>
     </td>
     <td>
       <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="25" height="25">
-      <br><span style="font-size: 10px;"><b>Azure</b></span>
+      <br><span style="font-size: 6px;"><b>Azure</b></span>
     </td>
   </tr>
 </table>
