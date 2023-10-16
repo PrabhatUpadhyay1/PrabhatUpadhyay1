@@ -27,30 +27,22 @@
 
 <style>
   table {
-    border-collapse: separate;
-    border-spacing: 10px;
-  }
-  td {
-    padding: 10px;
-    border: 1px solid #d4d4d4;
-    border-radius: 5px;
-    text-align: center;
-  }
-</style>
-
-<h3 align="left">Languages and Tools:</h3>
-<style>
-  table {
     width: 100%;
     border-collapse: collapse;
     margin-bottom: 20px;
+  }
+  th {
+    background-color: #f5f5f5;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    text-align: center;
+    padding: 15px;
   }
   td {
     padding: 15px;
     border: 1px solid #ccc;
     border-radius: 10px;
     text-align: center;
-    background-color: #f5f5f5;
   }
   td img {
     display: block;
@@ -72,60 +64,75 @@
 <h3 align="left">Languages and Tools:</h3>
 <table>
   <tr>
-      <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40">
-      <br><b>Java</b>
-    </td>
-
-    <td>
-      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40">
-      <br><b>Spring</b>
-    </td>
-    <td>
-      <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40">
-      <br><b>Kafka</b>
-    </td>
-    
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40">
-      <br><b>Docker</b>
-    </td>
-    <td>
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40">
-      <br><b>Firebase</b>
-    </td>
-    <td>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40">
-      <br><b>Git</b>
-    </td>
+    <th>Category</th>
+    <th>Language/Tool</th>
   </tr>
   <tr>
+    <td>Mobile Development</td>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40">
-      <br><b>PostgreSQL</b>
-    </td>
-    <td>
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40">
-      <br><b>Postman</b>
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40">
-      <br><b>Python</b>
-    </td>
-
-     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40">
       <br><b>Android</b>
     </td>
+    <td>Cloud Services</td>
     <td>
       <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40">
       <br><b>Azure</b>
     </td>
-    
+  </tr>
+  <tr>
+    <td>Containerization</td>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40">
-      <br><b>MySQL</b>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40">
+      <br><b>Docker</b>
+    </td>
+    <td>Backend Development</td>
+    <td>
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40">
+      <br><b>Firebase</b>
     </td>
   </tr>
-</table>
-
+  <tr>
+    <td>Version Control</td>
+    <td>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40">
+      <br><b>Git</b>
+    </td>
+    <td>Programming Language</td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40">
+      <br><b>Java</b>
+    </td>
+  </tr>
+  <tr>
+    <td>Database</td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40">
+      <br><b>PostgreSQL</b>
+    </td>
+    <td>API Testing</td>
+    <td>
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40">
+      <br><b>Postman</b>
+    </td>
+  </tr>
+  <tr>
+    <td>Programming Language</td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40">
+      <br><b>Python</b>
+    </td>
+    <td>Backend Framework</td>
+    <td>
+      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40">
+      <br><b>Spring</b>
+    </td>
+  </tr>
+  <tr>
+    <td>Message Broker</td>
+    <td>
+      <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40">
+      <br><b>Kafka</b>
+    </td>
+    <td>Database</td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-word
