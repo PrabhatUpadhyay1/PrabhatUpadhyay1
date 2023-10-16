@@ -9,35 +9,39 @@
 - 📫 How to reach me **prabhatu50@gmail.com**
 - 📄 Know about my experiences [https://drive.google.com/file/d/1xv2TYvuY9xIuVQ8sNLkEG1VrGeW1r1Tp/view?usp=sharing](https://drive.google.com/file/d/1xv2TYvuY9xIuVQ8sNLkEG1VrGeW1r1Tp/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Three Boxes with Image and Text:</h3>
 <table>
   <tr>
     <td>
       <div style="border: 1px solid #ccc; display: flex; align-items: center; padding: 10px;">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40">
-        <div style="display: flex; flex-direction: column; align-items: center; margin-left: 10px;">
-          <span style="font-size: 12px;">LinkedIn</span>
+        <img src="https://example.com/image1.png" alt="Image 1" width="40" height="40">
+        <div style="display: flex; flex-direction: column; align-items: flex-start; margin-left: 10px;">
+          <span style="font-size: 12px; font-weight: bold;">Box 1</span>
+          <span style="font-size: 10px;">Description for Box 1</span>
         </div>
       </div>
     </td>
     <td>
       <div style="border: 1px solid #ccc; display: flex; align-items: center; padding: 10px;">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40">
-        <div style="display: flex; flex-direction: column; align-items: center; margin-left: 10px;">
-          <span style="font-size: 12px;">LeetCode</span>
+        <img src="https://example.com/image2.png" alt="Image 2" width="40" height="40">
+        <div style="display: flex; flex-direction: column; align-items: flex-start; margin-left: 10px;">
+          <span style="font-size: 12px; font-weight: bold;">Box 2</span>
+          <span style="font-size: 10px;">Description for Box 2</span>
         </div>
       </div>
     </td>
     <td>
       <div style="border: 1px solid #ccc; display: flex; align-items: center; padding: 10px;">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" width="40" height="40">
-        <div style="display: flex; flex-direction: column; align-items: center; margin-left: 10px;">
-          <span style="font-size: 12px;">GeeksforGeeks</span>
+        <img src="https://example.com/image3.png" alt="Image 3" width="40" height="40">
+        <div style="display: flex; flex-direction: column; align-items: flex-start; margin-left: 10px;">
+          <span style="font-size: 12px; font-weight: bold;">Box 3</span>
+          <span style="font-size: 10px;">Description for Box 3</span>
         </div>
       </div>
     </td>
   </tr>
 </table>
+
 
 
 
