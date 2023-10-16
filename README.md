@@ -1,6 +1,6 @@
 ![Masterhead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 
-<h2 align="center">Hi 👋, I'm Prabhat Upadhyay</h2>
+<h2 align="left">Hi 👋, I'm Prabhat Upadhyay</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhatupadhyay1&label=Profile%20views&color=0e75b6&style=flat" alt="prabhatupadhyay1" /> </p>
 
