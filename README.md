@@ -27,7 +27,8 @@
 <style>
   table {
     width: 100%;
-    border-collapse: collapse;
+    border-collapse: separate;
+    border-spacing: 20px;
     margin-bottom: 20px;
   }
   td {
@@ -40,17 +41,6 @@
   td img {
     display: block;
     margin: 0 auto;
-    max-width: 100%;
-    height: auto;
-  }
-  @media (max-width: 600px) {
-    table {
-      border-spacing: 5px;
-    }
-    td {
-      padding: 10px;
-      font-size: 14px;
-    }
   }
 </style>
 
