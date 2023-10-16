@@ -10,23 +10,28 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1xv2TYvuY9xIuVQ8sNLkEG1VrGeW1r1Tp/view?usp=sharing](https://drive.google.com/file/d/1xv2TYvuY9xIuVQ8sNLkEG1VrGeW1r1Tp/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/prabhat-upadhyay-52441b136/" target="blank" style="margin: 10px;">
-    <div style="border: 1px solid #ccc; display: inline-block; padding: 10px;">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="25" />
-    </div>
-  </a>
-  <a href="https://leetcode.com/prabhatu50/" target="blank" style="margin: 10px;">
-    <div style="border: 1px solid #ccc; display: inline-block; padding: 10px;">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="25" />
-    </div>
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/prabhatu50/practice/" target="blank" style="margin: 10px;">
-    <div style="border: 1px solid #ccc; display: inline-block; padding: 10px;">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="25" />
-    </div>
-  </a>
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/prabhat-upadhyay-52441b136/" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40">
+        <br><b>LinkedIn</b>
+      </a>
+    </td>
+    <td>
+      <a href="https://leetcode.com/prabhatu50/" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40">
+        <br><b>LeetCode</b>
+      </a>
+    </td>
+    <td>
+      <a href="https://auth.geeksforgeeks.org/user/prabhatu50/practice/" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" width="40" height="40">
+        <br><b>GeeksforGeeks</b>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
