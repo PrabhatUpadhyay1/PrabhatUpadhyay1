@@ -2,8 +2,6 @@
 
 <h2 align="left">Hi 👋, I'm Prabhat Upadhyay</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhatupadhyay1&label=Profile%20views&color=0e75b6&style=flat" alt="prabhatupadhyay1" /> </p>
-
 - 🌱 I’m currently learning **FrontEnd Development**
 - 💬 Ask me about **Backend development and Android development**
 - 📫 How to reach me **prabhatu50@gmail.com**
