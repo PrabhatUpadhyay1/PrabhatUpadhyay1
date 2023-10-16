@@ -10,28 +10,29 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1xv2TYvuY9xIuVQ8sNLkEG1VrGeW1r1Tp/view?usp=sharing](https://drive.google.com/file/d/1xv2TYvuY9xIuVQ8sNLkEG1VrGeW1r1Tp/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
-<table>
+<table style="text-align: center;">
   <tr>
     <td>
-      <a href="https://www.linkedin.com/in/prabhat-upadhyay-52441b136/" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="20" height="20">
-        <br><b>LinkedIn</b>
+      <a href="https://www.linkedin.com/in/prabhat-upadhyay-52441b136/" target="blank" style="text-align: center;">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" style="display: block; margin: 0 auto;">
+        <br><span style="font-size: 12px;">LinkedIn</span>
       </a>
     </td>
     <td>
-      <a href="https://leetcode.com/prabhatu50/" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="20" height="20">
-        <br><b>LeetCode</b>
+      <a href="https://leetcode.com/prabhatu50/" target="blank" style="text-align: center;">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40" style="display: block; margin: 0 auto;">
+        <br><span style="font-size: 12px;">LeetCode</span>
       </a>
     </td>
     <td>
-      <a href="https://auth.geeksforgeeks.org/user/prabhatu50/practice/" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" width="20" height="20">
-        <br><b>GeeksforGeeks</b>
+      <a href="https://auth.geeksforgeeks.org/user/prabhatu50/practice/" target="blank" style="text-align: center;">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" width="40" height="40" style="display: block; margin: 0 auto;">
+        <br><span style="font-size: 12px;">GeeksforGeeks</span>
       </a>
     </td>
   </tr>
 </table>
+
 
 
 
