@@ -26,51 +26,15 @@
 
 
 
-<style>
-  table {
-    width: 100%;
-    border-collapse: collapse;
-    margin-bottom: 20px;
-  }
-  th {
-    background-color: #f5f5f5;
-    border: 1px solid #ccc;
-    border-radius: 10px;
-    text-align: center;
-    padding: 15px;
-  }
-  td {
-    padding: 15px;
-    border: 1px solid #ccc;
-    border-radius: 10px;
-    text-align: center;
-  }
-  td img {
-    display: block;
-    margin: 0 auto;
-    max-width: 100%;
-    height: auto;
-  }
-  @media (max-width: 600px) {
-    table {
-      border-spacing: 5px;
-    }
-    td {
-      padding: 10px;
-      font-size: 14px;
-    }
-  }
-</style>
-
 <h3 align="left">Languages and Tools:</h3>
 <table>
   <tr>
-    <th>Language/Tool</th>
-    <th>Language/Tool</th>
-    <th>Language/Tool</th>
-    <th>Language/Tool</th>
-    <th>Language/Tool</th>
-    <th>Language/Tool</th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
   </tr>
   <tr>
     <td>
