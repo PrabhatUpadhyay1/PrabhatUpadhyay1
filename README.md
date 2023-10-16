@@ -43,7 +43,7 @@
     </td>
     <td>
       <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="20" height="20">
-    </br> <span style="font-size: 8px;">Spring Boot</span>
+     <span style="font-size: 8px;">Spring Boot</span>
     </td>
     <td>
       <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="20" height="20">
