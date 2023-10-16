@@ -15,25 +15,29 @@
     <td>
       <div style="border: 1px solid #ccc; display: flex; align-items: center; padding: 10px;">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40">
-        <span style="font-size: 12px; margin-left: 10px;">LinkedIn</span>
+        <div style="display: flex; flex-direction: column; align-items: center; margin-left: 10px;">
+          <span style="font-size: 12px;">LinkedIn</span>
+        </div>
       </div>
     </td>
     <td>
       <div style="border: 1px solid #ccc; display: flex; align-items: center; padding: 10px;">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40">
-        <span style="font-size: 12px; margin-left: 10px;">LeetCode</span>
+        <div style="display: flex; flex-direction: column; align-items: center; margin-left: 10px;">
+          <span style="font-size: 12px;">LeetCode</span>
+        </div>
       </div>
     </td>
     <td>
       <div style="border: 1px solid #ccc; display: flex; align-items: center; padding: 10px;">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" width="40" height="40">
-        <span style="font-size: 12px; margin-left: 10px;">GeeksforGeeks</span>
+        <div style="display: flex; flex-direction: column; align-items: center; margin-left: 10px;">
+          <span style="font-size: 12px;">GeeksforGeeks</span>
+        </div>
       </div>
     </td>
   </tr>
 </table>
-
-
 
 
 
