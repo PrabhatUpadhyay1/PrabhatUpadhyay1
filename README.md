@@ -1,5 +1,6 @@
-![Header](https://img.freepik.com/free-vector/male-animator-sitting-computer-desk-creating-project-graphic-motion-designer-sitting-workplace-studio-developing-web-game-flat-vector-illustration-design-art-concept_74855-22510.jpg?w=1060&t=st=1697469841~exp=1697470441~hmac=07d2381fb337a12b1dc02b02fed15d4fdeeb8a8494b87f7f89eed6b1735a86d4)
-
+<p align="center">
+  <img src="https://img.freepik.com/free-vector/male-animator-sitting-computer-desk-creating-project-graphic-motion-designer-sitting-workplace-studio-developing-web-game-flat-vector-illustration-design-art-concept_74855-22510.jpg?w=1060&t=st=1697469841~exp=1697470441~hmac=07d2381fb337a12b1dc02b02fed15d4fdeeb8a8494b87f7f89eed6b1735a86d4" width="500" height="200" alt="Header Image" >
+</p>
 # Hi 👋, I'm Prabhat Upadhyay
 ## A Passionate Backend Developer from India
 
