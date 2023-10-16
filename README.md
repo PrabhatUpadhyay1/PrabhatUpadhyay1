@@ -1,4 +1,4 @@
-![Masterhead](https://camo.githubusercontent.com/417e6e178a69cc045c656d083ba983a59303f099087090269c01cacc6741ef29/68747470733a2f2f7170682e66732e71756f726163646e2e6e65742f6d61696e2d71696d672d6661376234626463336232663733653734396535633263363436643461653133)
+![Masterhead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 
 <h2 align="center">Hi 👋, I'm Prabhat Upadhyay</h2>
 <h3 align="center">A passionate backend developer from India</h3>
@@ -15,13 +15,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/prabhat-upadhyay-52441b136/" target="_blank" style="margin: 10px;">
+  <a href="https://www.linkedin.com/in/prabhat-upadhyay-52441b136/" target="_blank" style="margin: 20px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="25" />
   </a>
-  <a href="https://leetcode.com/prabhatu50/" target="_blank" style="margin: 10px;">
+  <a href="https://leetcode.com/prabhatu50/" target="_blank" style="margin: 20px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="25" />
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/prabhatu50/practice/" target="_blank" style="margin: 10px;">
+  <a href="https://auth.geeksforgeeks.org/user/prabhatu50/practice/" target="_blank" style="margin: 20px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="25" />
   </a>
 </p>
