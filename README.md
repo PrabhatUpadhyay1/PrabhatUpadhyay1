@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Prabhat Upadhyay</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wingstechsolutions.com%2Fblog%2Ffeaturing-everything-about-full-stack-development%2F&psig=AOvVaw3DwC_qS0ePY_VCh0KP3Xp-&ust=1697556745403000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCe0urx-oEDFQAAAAAdAAAAABAx">
+<img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhatupadhyay1&label=Profile%20views&color=0e75b6&style=flat" alt="prabhatupadhyay1" /> </p>
 
