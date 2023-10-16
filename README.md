@@ -24,7 +24,69 @@
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/prabhatu50/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/prabhatu50/practice/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhatupadhyay1&show_icons=true&locale=en&layout=compact" alt="prabhatupadhyay1" /></p>
+<h3 align="left">Languages and Tools:</h3>
+  <div align="left" style="border: 1px solid #e4e4e4; border-radius: 5px; padding: 10px;">
+    <div style="display: flex; flex-wrap: wrap;">
+      <!-- Android -->
+      <div style="border: 1px solid #e4e4e4; border-radius: 5px; margin: 5px; padding: 10px; text-align: center;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="30" height="30"/>
+        <br>Android
+      </div>
+      <!-- Microsoft Azure -->
+      <div style="border: 1px solid #e4e4e4; border-radius: 5px; margin: 5px; padding: 10px; text-align: center;">
+        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Microsoft Azure" width="30" height="30"/>
+        <br>Microsoft Azure
+      </div>
+      <!-- Docker -->
+      <div style="border: 1px solid #e4e4e4; border-radius: 5px; margin: 5px; padding: 10px; text-align: center;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="30" height="30"/>
+        <br>Docker
+      </div>
+      <!-- Firebase -->
+      <div style="border: 1px solid #e4e4e4; border-radius: 5px; margin: 5px; padding: 10px; text-align: center;">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="30" height="30"/>
+        <br>Firebase
+      </div>
+      <!-- Git -->
+      <div style="border: 1px solid #e4e4e4; border-radius: 5px; margin: 5px; padding: 10px; text-align: center;">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"/>
+        <br>Git
+      </div>
+      <!-- Java -->
+      <div style="border: 1px solid #e4e4e4; border-radius: 5px; margin: 5px; padding: 10px; text-align: center;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30" height="30"/>
+        <br>Java
+      </div>
+      <!-- Apache Kafka -->
+      <div style="border: 1px solid #e4e4e4; border-radius: 5px; margin: 5px; padding: 10px; text-align: center;">
+        <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Apache Kafka" width="30" height="30"/>
+        <br>Apache Kafka
+      </div>
+      <!-- MySQL -->
+      <div style="border: 1px solid #e4e4e4; border-radius: 5px; margin: 5px; padding: 10px; text-align: center;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt "MySQL" width="30" height="30"/>
+        <br>MySQL
+      </div>
+      <!-- PostgreSQL -->
+      <div style="border: 1px solid #e4e4e4; border-radius: 5px; margin: 5px; padding: 10px; text-align: center;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="30" height="30"/>
+        <br>PostgreSQL
+      </div>
+      <!-- Postman -->
+      <div style="border: 1px solid #e4e4e4; border-radius: 5px; margin: 5px; padding: 10px; text-align: center;">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="30" height="30"/>
+        <br>Postman
+      </div>
+      <!-- Python -->
+      <div style="border: 1px solid #e4e4e4; border-radius: 5px; margin: 5px; padding: 10px; text-align: center;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/>
+        <br>Python
+      </div>
+      <!-- Spring -->
+      <div style="border: 1px solid #e4e4e4; border-radius: 5px; margin: 5px; padding: 10px; text-align: center;">
+        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="30" height="30"/>
+        <br>Spring
+      </div>
+    </div>
+  </div>
