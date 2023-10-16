@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Prabhat Upadhyay</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" class="banned">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhatupadhyay1&label=Profile%20views&color=0e75b6&style=flat" alt="prabhatupadhyay1" /> </p>
 
 - 🔭 I’m currently working on [Micro](knksdk)
