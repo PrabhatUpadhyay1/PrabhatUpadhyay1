@@ -1,16 +1,12 @@
 ![Masterhead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 
 <h2 align="center">Hi 👋, I'm Prabhat Upadhyay</h2>
-<h3 align="center">A passionate backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhatupadhyay1&label=Profile%20views&color=0e75b6&style=flat" alt="prabhatupadhyay1" /> </p>
 
 - 🌱 I’m currently learning **FrontEnd Development**
-
 - 💬 Ask me about **Backend Android Developer**
-
 - 📫 How to reach me **prabhatu50@gmail.com**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1xv2TYvuY9xIuVQ8sNLkEG1VrGeW1r1Tp/view?usp=sharing](https://drive.google.com/file/d/1xv2TYvuY9xIuVQ8sNLkEG1VrGeW1r1Tp/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
