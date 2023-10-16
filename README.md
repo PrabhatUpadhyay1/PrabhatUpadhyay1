@@ -12,34 +12,26 @@
 <h3 align="left">Connect with me:</h3>
 <table>
   <tr>
-    <td style="text-align: center;">
-      <div style="border: 1px solid #ccc; display: inline-block; padding: 10px;">
-        <a href="https://www.linkedin.com/in/prabhat-upadhyay-52441b136/" target="blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="20" height="20" style="display: block; margin: 0 auto;">
-        </a>
-        <br><span style="font-size: 12px;">LinkedIn</span>
+    <td>
+      <div style="border: 1px solid #ccc; display: flex; align-items: center; padding: 10px;">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40">
+        <span style="font-size: 12px; margin-left: 10px;">LinkedIn</span>
       </div>
     </td>
-    <td style="text-align: center;">
-      <div style="border: 1px solid #ccc; display: inline-block; padding: 10px;">
-        <a href="https://leetcode.com/prabhatu50/" target="blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt "LeetCode" width="20" height="20" style="display: block; margin: 0 auto;">
-        </a>
-        <br><span style="font-size: 12px;">LeetCode</span>
+    <td>
+      <div style="border: 1px solid #ccc; display: flex; align-items: center; padding: 10px;">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40">
+        <span style="font-size: 12px; margin-left: 10px;">LeetCode</span>
       </div>
     </td>
-    <td style="text-align: center;">
-      <div style="border: 1px solid #ccc; display: inline-block; padding: 10px;">
-        <a href="https://auth.geeksforgeeks.org/user/prabhatu50/practice/" target="blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" width="20" height="20" style="display: block; margin: 0 auto;">
-        </a>
-        <br><span style="font-size: 12px;">GeeksforGeeks</span>
+    <td>
+      <div style="border: 1px solid #ccc; display: flex; align-items: center; padding: 10px;">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" width="40" height="40">
+        <span style="font-size: 12px; margin-left: 10px;">GeeksforGeeks</span>
       </div>
     </td>
   </tr>
 </table>
-
-
 
 
 
