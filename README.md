@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhatupadhyay1&label=Profile%20views&color=0e75b6&style=flat" alt="prabhatupadhyay1" /> </p>
 
-- 🔭 I’m currently working on [Micro](knksdk)
-
 - 🌱 I’m currently learning **FrontEnd Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PrabhatUpadhyay1](https://github.com/PrabhatUpadhyay1)
